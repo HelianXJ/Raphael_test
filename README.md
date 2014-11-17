@@ -3,7 +3,7 @@ Raphael_test
 
 这是一个利用Raphael.js实现数据可视化的小练习
 
-关于Paphhael，官方以下解释：
+关于Paphael，官方以下解释：
 ---------------------------
 
 ###What is it?###
